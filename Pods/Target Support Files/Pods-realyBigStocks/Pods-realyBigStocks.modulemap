@@ -1,0 +1,6 @@
+framework module Pods_realyBigStocks {
+  umbrella header "Pods-realyBigStocks-umbrella.h"
+
+  export *
+  module * { export * }
+}
